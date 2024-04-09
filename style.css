@@ -1,0 +1,39 @@
+@media only screen and (max-width: 600px) {
+    body {
+        font-family: 'Times New Roman';
+        font-weight: bold;
+        font-size: 12px;
+    }
+
+    header {
+        display: block;
+    }
+
+    header li {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+
+    .text,
+    .image img {
+        width: 85%;
+        margin: 20px;
+        float: none;
+    }
+
+    .container {
+        margin: 10px;
+    }
+
+    .box2 {
+        margin: 10px;
+    }
+
+    #p1 {
+        margin: 10px 20px;
+    }
+    .margin-left {
+        margin-left: 10px;
+    }
+}
